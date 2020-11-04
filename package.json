@@ -2,7 +2,8 @@
   "name": "LessWrong",
   "version": "2.0.0",
   "engines": {
-    "npm": "^3.0"
+    "npm": "^3.0",
+    "node": "12.x"
   },
   "scripts": {
     "checktypes": "scripts/lint_and_checktypes.sh",
