@@ -6,7 +6,7 @@ npm-debug.log
 *-ck.js
 providers_secret.js
 *.sublime-project
-
+yarn.lock
 *.sublime-workspace
 codekit-config.json
 
